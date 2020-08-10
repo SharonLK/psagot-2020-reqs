@@ -36,7 +36,6 @@ from PIL import Image
 from PIL import Image
 import cv2
 import numpy as np
-import mxnet as mx
 import io
 from pathlib import Path
 
@@ -50,3 +49,5 @@ import cv2
 import numpy as np
 import torch
 from torch.autograd import Variable
+
+print('yay')
