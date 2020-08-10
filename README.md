@@ -31,7 +31,7 @@
 
 # IDE Installation
 
-Since we are civil, non barbaric, duck loving creatures we will be using PyCharm as the main IDE for python development in these workshops. You can download the latest PyCharm version from the following link:
+Since we are civil, non barbaric, duck loving creatures we will be using PyCharm as the main IDE for python development in these workshops (alongside `jupyter` which you have installed in the previous sub-sections). You can download the latest PyCharm version from the following link:
 
 `https://www.jetbrains.com/pycharm/`
 
