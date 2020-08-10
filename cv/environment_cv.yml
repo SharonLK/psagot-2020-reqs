@@ -1,1 +1,18 @@
 name: psagot-2020-cv
+channels:
+  - conda
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.8
+  - jupyter
+  - autopep8
+  - pytorch
+  - torchvision
+  - cpuonly
+  - opencv
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
