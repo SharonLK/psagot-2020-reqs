@@ -1,4 +1,4 @@
-# Algorithmics & Data Science Installation
+# Algorithmics & Data Science Installations
 
 ### Windows
 
