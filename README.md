@@ -56,12 +56,9 @@ If you don't have a local Linux machine, or if you have but would rather use an 
 
 ## Linux Users
 
-1. Make sure you have Python 3. If not, download using the command `sudo apt-get install python3`.
-2. Download and install on your local machine the latest anaconda version for Python3 from [here](https://www.anaconda.com/products/individual).
-3. Download the script `hatam_linux_install.sh` from [here](https://drive.google.com/drive/folders/1K_uQZUQykIimW44xKx2Azrn1jXxGuR49).
-4. Add run permissions by running `chmod +x install.sh`.
-5. Make sure `anaconda` is not being run by default in your terminal by running `conda deactivate`.
-6. Download and install the latest version of `IDA-Free` from [here](https://www.hex-rays.com/products/ida/support/download_freeware/).
+1. Add run permissions to the installation script by running `chmod +x installation_on_linux.sh`.
+2. Run the script.
+3. Download and install the latest version of `IDA-Free` from [here](https://www.hex-rays.com/products/ida/support/download_freeware/).
 
 # Advanced Week Installations
 
