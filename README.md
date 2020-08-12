@@ -1,6 +1,8 @@
 Welcome to the HATAM course. In this course you will learn a plethora of subjects. In order to participate in these workshops some software must be installed on your local computers. Follow the instructions in the sections below to install everything needed for the various workshops.
 
 - [Discord](#discord)
+  * [Downloading Locally](#downloading-locally)
+  * [Web Application](#web-application)
 - [Introduction Week Installations](#introduction-week-installations)
   * [Non-Linux Users](#non-linux-users)
   * [Linux Users](#linux-users)
@@ -12,12 +14,24 @@ Welcome to the HATAM course. In this course you will learn a plethora of subject
   * [Machine Learning Workshop Installations](#machine-learning-workshop-installations)
   * [Computer Vision Workshop Installations](#computer-vision-workshop-installations)
   * [PyCharm Installation](#pycharm-installation)
+- [Summary](#summary)
 
 # Discord
+
+You have the choice of using the discord as a web application or downloading it locally to your machine, its up to you. After you have entered discord, make sure you change your nickname to your full name.
+
+![image](https://user-images.githubusercontent.com/38311688/90012201-9f65f900-dcab-11ea-9570-30a354828ed9.png)
+
+## Downloading Locally
 
 1. Download the installation file from this [link](https://discord.com/new/download).
 2. Follow the instructions and install discord.
 3. Join the HATAM server by clicking on this [link](https://discord.gg/EJcysAY).
+
+## Web Application
+
+1. Join the HATAM server by clicking on this [link](https://discord.gg/EJcysAY).
+2. When entering the link you will be promped with entering a nickname and your email address.
 
 # Introduction Week Installations
 
@@ -78,21 +92,21 @@ If you don't have a local Linux machine, or if you have but would rather use an 
 
 1. Run the command `conda env create -f algo\environment_algo.yml`
 2. Run the command `conda activate psagot-2020-algo`
-3. Run the command `python algo\check.py`
+3. Run the command `python algo\check.py` and make sure its ran without any errors and `yay` has been printed
 4. Run the command `conda deactivate`
 
 ## Machine Learning Workshop Installations
 
 1. Run the command `conda env create -f ml\environment_algo.yml`
 2. Run the command `conda activate psagot-2020-ml`
-3. Run the command `python ml\check.py`
+3. Run the command `python ml\check.py` and make sure its ran without any errors and `yay` has been printed
 4. Run the command `conda deactivate`
 
 ## Computer Vision Workshop Installations
 
 1. Run the command `conda env create -f cv\environment_algo.yml`
 2. Run the command `conda activate psagot-2020-cv`
-3. Run the command `python cv\check.py`
+3. Run the command `python cv\check.py` and make sure its ran without any errors and `yay` has been printed
 4. Run the command `conda deactivate`
 
 ## PyCharm Installation
@@ -102,3 +116,11 @@ Since we are civil, non barbaric, duck loving creatures we will be using PyCharm
 `https://www.jetbrains.com/pycharm/`
 
 The installation is straightforward.
+
+# Summary
+
+After the installation you should have the following installed:
+
+* Virtual machine that you have successfully ran on Virtual Box.
+* Anaconda with the above 3 environments (algo, ml & cv) installed and tested on your local machine.
+* PyCharm installed on your local machine. 
