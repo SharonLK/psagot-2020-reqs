@@ -97,14 +97,14 @@ If you don't have a local Linux machine, or if you have but would rather use an 
 
 ## Machine Learning Workshop Installations
 
-1. Run the command `conda env create -f ml\environment_algo.yml`
+1. Run the command `conda env create -f ml\environment_ml.yml`
 2. Run the command `conda activate psagot-2020-ml`
 3. Run the command `python ml\check.py` and make sure its ran without any errors and `yay` has been printed
 4. Run the command `conda deactivate`
 
 ## Computer Vision Workshop Installations
 
-1. Run the command `conda env create -f cv\environment_algo.yml`
+1. Run the command `conda env create -f cv\environment_cv.yml`
 2. Run the command `conda activate psagot-2020-cv`
 3. Run the command `python cv\check.py` and make sure its ran without any errors and `yay` has been printed
 4. Run the command `conda deactivate`
