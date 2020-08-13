@@ -43,18 +43,18 @@ If you don't have a local Linux machine, or if you have but would rather use an 
 2. Go to this [link](https://drive.google.com/drive/folders/1K_uQZUQykIimW44xKx2Azrn1jXxGuR49) and do one of the following:
     * If you have a consistent internet connection, download the whole virtual machine image named `HataMachine.ova` (~7GB)
     * If you don't have a consistent internet connection, download the separate ZIP files from the folder `HataMachine` and then extract the virtual machine image from them.
-4. Open Virtual Box and choose `Import`.
+3. Open Virtual Box and choose `Import`.
 
     ![image](https://user-images.githubusercontent.com/38311688/90002771-c5839d00-dc9b-11ea-9773-6c4ec16d4b4b.png)
 
-5. Choose the `.ova` file you downloaded and click on `continue`.
-6. In the next screen you will see the recommended settings for the virtual machine:
+4. Choose the `.ova` file you downloaded and click on `continue`.
+5. In the next screen you will see the recommended settings for the virtual machine:
 
     ![image](https://user-images.githubusercontent.com/38311688/90002795-d3d1b900-dc9b-11ea-9ff8-45d5880a8498.png)
     
     If you have less than 8GB of RAM on your local machine, reduce the RAM requirements of the virtual machine (it should be no less than 2048MB).
 
-7. Launch the VM and make sure you can log in (password is `12345678`)
+6. Launch the VM and make sure you can log in (password is `12345678`)
 
 ## Linux Users
 
