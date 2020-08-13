@@ -54,6 +54,8 @@ If you don't have a local Linux machine, or if you have but would rather use an 
     
     If you have less than 8GB of RAM on your local machine, reduce the RAM requirements of the virtual machine (it should be no less than 2048MB).
 
+7. Launch the VM and make sure you can log in (password is `12345678`)
+
 ## Linux Users
 
 1. Add run permissions to the installation script by running `chmod +x installation_on_linux.sh`.
