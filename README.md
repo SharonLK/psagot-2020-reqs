@@ -55,12 +55,14 @@ If you don't have a local Linux machine, or if you have but would rather use an 
     If you have less than 8GB of RAM on your local machine, reduce the RAM requirements of the virtual machine (it should be no less than 2048MB).
 
 6. Launch the VM and make sure you can log in (password is `12345678`)
+7. Go to `https://www.sublimetext.com` and follow the instructions to download the text editor.
 
 ## Linux Users
 
 1. Add run permissions to the installation script by running `chmod +x installation_on_linux.sh`.
 2. Run the script.
 3. Download and install the latest version of `IDA-Free` from [here](https://www.hex-rays.com/products/ida/support/download_freeware/).
+4. Go to `https://www.sublimetext.com` and follow the instructions to download the text editor.
 
 # Advanced Week Installations
 
