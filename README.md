@@ -26,11 +26,11 @@ You have the choice of using the discord as a web application or downloading it 
 
 1. Download the installation file from this [link](https://discord.com/new/download).
 2. Follow the instructions and install discord.
-3. Join the HATAM server by clicking on this [link](https://discord.gg/EJcysAY).
+3. Join the HATAM server by clicking on this [link](https://discord.gg/6ssdhvQ).
 
 ## Web Application
 
-1. Join the HATAM server by clicking on this [link](https://discord.gg/EJcysAY).
+1. Join the HATAM server by clicking on this [link](https://discord.gg/6ssdhvQ).
 2. When entering the link you will be promped with entering a nickname and your email address.
 
 # Introduction Week Installations
