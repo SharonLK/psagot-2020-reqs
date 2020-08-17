@@ -7,7 +7,7 @@ dependencies:
   - python=3.8
   - jupyter
   - autopep8
-  - pytorch
+  - pytorch=1.5.1
   - torchvision
   - cpuonly
   - opencv
@@ -16,3 +16,7 @@ dependencies:
   - pandas
   - seaborn
   - scikit-learn
+  - pip
+  - pip:
+      - ipython-autotime
+      - tqdm
