@@ -140,6 +140,11 @@ Now run the following:
 1. Run the command `python cv\check.py` and make sure its ran without any errors and `yay` has been printed
 2. Run the command `conda deactivate`
 
+## Git Installation
+
+1. Go to `https://git-scm.com/downloads`
+2. Do the thing...
+
 ## PyCharm Installation
 
 Since we are civil, non barbaric, duck loving creatures we will be using PyCharm as the main IDE for python development in these workshops (alongside `jupyter` which you have installed in the previous sub-sections). You can download the latest PyCharm version from the following link:
@@ -154,4 +159,5 @@ After the installation you should have the following installed:
 
 * Virtual machine that you have successfully ran on Virtual Box.
 * Anaconda with the above 3 environments (algo, ml & cv) installed and tested on your local machine.
-* PyCharm installed on your local machine. 
+* PyCharm installed on your local machine.
+* Git installed on your local machine. 
