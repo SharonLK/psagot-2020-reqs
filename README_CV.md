@@ -19,7 +19,7 @@ The workshop heavily relies on python and the anaconda package management system
 
 * Download exercise files from [this link](https://drive.google.com/file/d/1Be4ZkFVur4N-tJc05Y9fXkXSXcNOiTVQ/view?usp=sharing)
 * Extract the exercise files into your file system
-* Download the data files from [this link]() into the exercise directory
+* Download the data files from [this link](https://drive.google.com/drive/folders/16fe6mQZILUSVQ_p88xjTtRCq0aWPB_XD?usp=sharing) into the exercise directory
 * After extracting everything, your working directory should look like this:
 
 ![image](https://user-images.githubusercontent.com/38311688/91271310-a4827800-e782-11ea-9270-0e020fdfa610.png)
