@@ -17,13 +17,20 @@ The workshop heavily relies on python and the anaconda package management system
 
 ## Downloading the Project Files
 
-yes yes yes
+* Download exercise files from [this link](https://drive.google.com/file/d/1Be4ZkFVur4N-tJc05Y9fXkXSXcNOiTVQ/view?usp=sharing)
+* Extract the exercise files into your file system
+* Download the data files from [this link]() into the exercise directory
+* After extracting everything, your working directory should look like this:
+
+![image](https://user-images.githubusercontent.com/38311688/91271310-a4827800-e782-11ea-9270-0e020fdfa610.png)
 
 ## Launching the Project
 
 * Open up the anaconda prompt
     * *Linux* - simply open the terminal
     * *Windows* - press `WINKEY` and then search for `Anaconda Prompt (anacond3)`
-* In the anaconda prompt `cd` to the project directory
+* In the anaconda prompt `cd` to the exercise directory
 * Run the command `conda activate psagot-2020-cv`
 * Open up jupyter by running `jupyter notebook`
+
+    ![image](https://user-images.githubusercontent.com/38311688/91271431-d8f63400-e782-11ea-8ac9-8fd323407b02.png)
