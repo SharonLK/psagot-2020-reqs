@@ -33,4 +33,4 @@ The workshop heavily relies on python and the anaconda package management system
 * Run the command `conda activate psagot-2020-cv`
 * Open up jupyter by running `jupyter notebook`
 
-    ![image](https://user-images.githubusercontent.com/38311688/91271431-d8f63400-e782-11ea-8ac9-8fd323407b02.png)
+![image](https://user-images.githubusercontent.com/38311688/91271431-d8f63400-e782-11ea-8ac9-8fd323407b02.png)
