@@ -21,4 +21,9 @@ yes yes yes
 
 ## Launching the Project
 
-yes yes yes jupyter
+* Open up the anaconda prompt
+    * *Linux* - simply open the terminal
+    * *Windows* - press `WINKEY` and then search for `Anaconda Prompt (anacond3)`
+* In the anaconda prompt `cd` to the project directory
+* Run the command `conda activate psagot-2020-cv`
+* Open up jupyter by running `jupyter notebook`
