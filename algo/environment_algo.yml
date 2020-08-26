@@ -1,4 +1,7 @@
 name: psagot-2020-algo
+channels:
+  - conda
+  - conda-forge
 dependencies:
   - python=3.8
   - shapely
